@@ -1,2 +1,2 @@
 # hello-world
-hello-world is nice.
+hello-world is good.
